@@ -1,0 +1,14 @@
+/Users/jaskarankainth/LLD/GymManagementSystem/bin/Debug/net8.0/GymManagementSystem
+/Users/jaskarankainth/LLD/GymManagementSystem/bin/Debug/net8.0/GymManagementSystem.deps.json
+/Users/jaskarankainth/LLD/GymManagementSystem/bin/Debug/net8.0/GymManagementSystem.runtimeconfig.json
+/Users/jaskarankainth/LLD/GymManagementSystem/bin/Debug/net8.0/GymManagementSystem.dll
+/Users/jaskarankainth/LLD/GymManagementSystem/bin/Debug/net8.0/GymManagementSystem.pdb
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/GymManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/GymManagementSystem.AssemblyInfoInputs.cache
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/GymManagementSystem.AssemblyInfo.cs
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/GymManagementSystem.csproj.CoreCompileInputs.cache
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/GymManagementSystem.dll
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/refint/GymManagementSystem.dll
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/GymManagementSystem.pdb
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/GymManagementSystem.genruntimeconfig.cache
+/Users/jaskarankainth/LLD/GymManagementSystem/obj/Debug/net8.0/ref/GymManagementSystem.dll

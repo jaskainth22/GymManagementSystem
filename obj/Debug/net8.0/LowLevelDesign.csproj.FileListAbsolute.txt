@@ -1,0 +1,14 @@
+/Users/jaskarankainth/LLD/LowLevelDesign/bin/Debug/net8.0/LowLevelDesign
+/Users/jaskarankainth/LLD/LowLevelDesign/bin/Debug/net8.0/LowLevelDesign.deps.json
+/Users/jaskarankainth/LLD/LowLevelDesign/bin/Debug/net8.0/LowLevelDesign.runtimeconfig.json
+/Users/jaskarankainth/LLD/LowLevelDesign/bin/Debug/net8.0/LowLevelDesign.dll
+/Users/jaskarankainth/LLD/LowLevelDesign/bin/Debug/net8.0/LowLevelDesign.pdb
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/LowLevelDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/LowLevelDesign.AssemblyInfoInputs.cache
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/LowLevelDesign.AssemblyInfo.cs
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/LowLevelDesign.csproj.CoreCompileInputs.cache
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/LowLevelDesign.dll
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/refint/LowLevelDesign.dll
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/LowLevelDesign.pdb
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/LowLevelDesign.genruntimeconfig.cache
+/Users/jaskarankainth/LLD/LowLevelDesign/obj/Debug/net8.0/ref/LowLevelDesign.dll
